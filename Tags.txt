@@ -1,1 +1,7 @@
 A tag br é para a quebra de linhas.
+
+A tag b é para deixar em negrito(Não semantica).
+A tag strong tambem deixa em negrito, mas dessa vez essa tag é semantica.
+
+A tag i é para deixar em italico(Não semantica).
+A tag EM tambem deixa em italico, mas dessa vez essa tag é semantica
